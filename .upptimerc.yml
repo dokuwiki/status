@@ -11,6 +11,16 @@ sites:
     url: https://download.dokuwiki.org
   - name: Translate
     url: https://translate.dokuwiki.org
+  - name: IRC Log
+    slug: irc
+    url: https://irc.dokuwiki.org/
+  - name: Code Search
+    url: https://codesearch.dokuwiki.org/
+  - name: Plugin Wizard
+    slug: pluginwiz
+    url: https://pluginwiz.dokuwiki.org/
+  - name: Mastodon
+    url: https://phpc.social/@dokuwiki
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
