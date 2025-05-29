@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dokuwiki.org.ico",
     "slug": "wiki",
     "status": "down",
-    "uptime": "94.94%",
-    "uptimeDay": "94.94%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "94.94%",
-    "uptimeYear": "94.94%",
+    "uptime": "52.48%",
+    "uptimeDay": "52.48%",
+    "uptimeWeek": "52.48%",
+    "uptimeMonth": "52.48%",
+    "uptimeYear": "52.48%",
     "time": 13123,
     "timeDay": 13123,
     "timeWeek": 13123,
     "timeMonth": 13123,
     "timeYear": 13123,
     "dailyMinutesDown": {
-      "2025-05-29": 1
+      "2025-05-29": 12
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.dokuwiki.org.ico",
     "slug": "forum",
     "status": "down",
-    "uptime": "97.48%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "97.48%",
+    "uptime": "53.32%",
+    "uptimeDay": "53.32%",
+    "uptimeWeek": "53.32%",
+    "uptimeMonth": "53.32%",
+    "uptimeYear": "53.32%",
     "time": 8723,
     "timeDay": 8723,
     "timeWeek": 8723,
     "timeMonth": 8723,
     "timeYear": 8723,
     "dailyMinutesDown": {
-      "2025-05-29": 0
+      "2025-05-29": 11
     }
   },
   {
@@ -44,35 +44,39 @@
     "url": "https://download.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/download.dokuwiki.org.ico",
     "slug": "download",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.54%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "98.54%",
+    "uptimeYear": "98.54%",
     "time": 4032,
     "timeDay": 4032,
     "timeWeek": 4032,
     "timeMonth": 4032,
     "timeYear": 4032,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-29": 0
+    }
   },
   {
     "name": "Translate",
     "url": "https://translate.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.dokuwiki.org.ico",
     "slug": "translate",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 964,
     "timeDay": 964,
     "timeWeek": 964,
     "timeMonth": 964,
     "timeYear": 964,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-29": 0
+    }
   }
 ]
