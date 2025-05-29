@@ -25,8 +25,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: status.dokuwiki.org
+  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/dokuwiki/dokuwiki/refs/heads/master/data/media/wiki/dokuwiki.svg
   name: DokuWiki Status Page
   introTitle: "Current status of the various DokuWiki services"
