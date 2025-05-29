@@ -9,6 +9,8 @@ sites:
     url: https://forum.dokuwiki.org
   - name: Download
     url: https://download.dokuwiki.org
+  - name: Translate
+    url: https://translate.dokuwiki.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
