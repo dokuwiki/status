@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dokuwiki.org.ico",
     "slug": "wiki",
     "status": "down",
-    "uptime": "97.34%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "97.34%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.34%",
+    "uptime": "96.87%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "96.87%",
     "time": 4533,
     "timeDay": 7028,
     "timeWeek": 4533,
     "timeMonth": 4533,
     "timeYear": 4533,
     "dailyMinutesDown": {
-      "2025-05-30": 41,
+      "2025-05-30": 52,
       "2025-05-29": 22
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.dokuwiki.org.ico",
     "slug": "forum",
     "status": "down",
-    "uptime": "98.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "98.99%",
+    "uptime": "98.50%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
     "time": 4232,
     "timeDay": 8355,
     "timeWeek": 4232,
     "timeMonth": 4232,
     "timeYear": 4232,
     "dailyMinutesDown": {
-      "2025-05-30": 2,
+      "2025-05-30": 14,
       "2025-05-29": 22
     }
   },
@@ -46,19 +46,19 @@
     "url": "https://download.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/download.dokuwiki.org.ico",
     "slug": "download",
-    "status": "down",
-    "uptime": "97.59%",
-    "uptimeDay": "96.02%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "97.59%",
-    "time": 2852,
-    "timeDay": 8980,
-    "timeWeek": 2852,
-    "timeMonth": 2852,
-    "timeYear": 2852,
+    "status": "up",
+    "uptime": "97.18%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "97.18%",
+    "time": 3509,
+    "timeDay": 8541,
+    "timeWeek": 3509,
+    "timeMonth": 3509,
+    "timeYear": 3509,
     "dailyMinutesDown": {
-      "2025-05-30": 58
+      "2025-05-30": 68
     }
   },
   {
@@ -67,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.dokuwiki.org.ico",
     "slug": "translate",
     "status": "down",
-    "uptime": "97.61%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "97.61%",
+    "uptime": "97.13%",
+    "uptimeDay": "95.26%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "97.13%",
+    "uptimeYear": "97.13%",
     "time": 2596,
     "timeDay": 10366,
     "timeWeek": 2596,
     "timeMonth": 2596,
     "timeYear": 2596,
     "dailyMinutesDown": {
-      "2025-05-30": 56
+      "2025-05-30": 68
     }
   },
   {
@@ -87,18 +87,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/irc.dokuwiki.org.ico",
     "slug": "irc",
     "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.80%",
+    "uptime": "98.31%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
     "time": 2522,
     "timeDay": 7664,
     "timeWeek": 2522,
     "timeMonth": 2522,
     "timeYear": 2522,
     "dailyMinutesDown": {
-      "2025-05-30": 28
+      "2025-05-30": 40
     }
   },
   {
@@ -126,19 +126,19 @@
     "url": "https://pluginwiz.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pluginwiz.dokuwiki.org.ico",
     "slug": "pluginwiz",
-    "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
-    "time": 2130,
-    "timeDay": 6918,
-    "timeWeek": 2130,
-    "timeMonth": 2130,
-    "timeYear": 2130,
+    "status": "up",
+    "uptime": "98.34%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
+    "time": 3432,
+    "timeDay": 7780,
+    "timeWeek": 3432,
+    "timeMonth": 3432,
+    "timeYear": 3432,
     "dailyMinutesDown": {
-      "2025-05-30": 27
+      "2025-05-30": 39
     }
   },
   {
