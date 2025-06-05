@@ -12,12 +12,10 @@ sites:
   - name: Translate
     url: https://translate.dokuwiki.org
   - name: IRC Log
-    slug: irc
     url: https://irc.dokuwiki.org/
   - name: Code Search
     url: https://codesearch.dokuwiki.org/
   - name: Plugin Wizard
-    slug: pluginwiz
     url: https://pluginwiz.dokuwiki.org/
   - name: Mastodon
     url: https://phpc.social/@dokuwiki
