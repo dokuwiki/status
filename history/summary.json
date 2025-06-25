@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.dokuwiki.org.ico",
     "slug": "forum",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 1872,
     "timeDay": 1057,
     "timeWeek": 1163,
@@ -147,18 +147,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/phpc.social.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.66%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 779,
     "timeDay": 677,
     "timeWeek": 855,
     "timeMonth": 779,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2025-06-24": 0
+      "2025-06-25": 129,
+      "2025-06-24": 3
     }
   }
 ]
