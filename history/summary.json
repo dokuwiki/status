@@ -146,9 +146,9 @@
     "url": "https://phpc.social/@dokuwiki",
     "icon": "https://icons.duckduckgo.com/ip3/phpc.social.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -158,6 +158,7 @@
     "timeMonth": 769,
     "timeYear": 746,
     "dailyMinutesDown": {
+      "2025-09-04": 0,
       "2025-06-25": 131,
       "2025-06-24": 3
     }
