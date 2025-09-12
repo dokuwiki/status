@@ -28,10 +28,10 @@
     "url": "https://forum.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/forum.dokuwiki.org.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
     "time": 1355,
@@ -40,7 +40,7 @@
     "timeMonth": 1240,
     "timeYear": 1355,
     "dailyMinutesDown": {
-      "2025-09-12": 33,
+      "2025-09-12": 36,
       "2025-05-31": 73,
       "2025-05-30": 19,
       "2025-05-29": 22
@@ -51,11 +51,11 @@
     "url": "https://download.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/download.dokuwiki.org.ico",
     "slug": "download",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 1007,
     "timeDay": 3632,
@@ -63,7 +63,7 @@
     "timeMonth": 1010,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2025-09-12": 22,
+      "2025-09-12": 24,
       "2025-05-30": 68
     }
   },
@@ -72,10 +72,10 @@
     "url": "https://translate.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.dokuwiki.org.ico",
     "slug": "translate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
     "time": 1177,
@@ -84,7 +84,7 @@
     "timeMonth": 1320,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2025-09-12": 22,
+      "2025-09-12": 24,
       "2025-05-31": 168,
       "2025-05-30": 73
     }
@@ -94,10 +94,10 @@
     "url": "https://irc.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/irc.dokuwiki.org.ico",
     "slug": "irc-log",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 850,
@@ -106,7 +106,7 @@
     "timeMonth": 1034,
     "timeYear": 850,
     "dailyMinutesDown": {
-      "2025-09-12": 21
+      "2025-09-12": 22
     }
   },
   {
@@ -114,10 +114,10 @@
     "url": "https://codesearch.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/codesearch.dokuwiki.org.ico",
     "slug": "code-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 926,
@@ -126,6 +126,7 @@
     "timeMonth": 825,
     "timeYear": 926,
     "dailyMinutesDown": {
+      "2025-09-12": 1,
       "2025-05-31": 94,
       "2025-05-30": 16
     }
