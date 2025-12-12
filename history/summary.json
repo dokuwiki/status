@@ -4,11 +4,11 @@
     "url": "https://www.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.dokuwiki.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "82.90%",
+    "uptimeDay": "82.88%",
     "uptimeWeek": "87.26%",
-    "uptimeMonth": "92.18%",
+    "uptimeMonth": "92.24%",
     "uptimeYear": "98.80%",
     "time": 1346,
     "timeDay": 926,
@@ -35,7 +35,7 @@
       "2025-11-26": 120,
       "2025-11-25": 141,
       "2025-11-24": 318,
-      "2025-11-23": 205
+      "2025-11-23": 178
     }
   },
   {
