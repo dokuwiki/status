@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dokuwiki.org.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "89.33%",
-    "uptimeWeek": "86.68%",
-    "uptimeMonth": "92.33%",
-    "uptimeYear": "98.83%",
+    "uptime": "98.80%",
+    "uptimeDay": "90.63%",
+    "uptimeWeek": "86.80%",
+    "uptimeMonth": "92.13%",
+    "uptimeYear": "98.80%",
     "time": 1696,
-    "timeDay": 14642,
+    "timeDay": 15669,
     "timeWeek": 3951,
-    "timeMonth": 1571,
+    "timeMonth": 1577,
     "timeYear": 1696,
     "dailyMinutesDown": {
-      "2025-12-13": 148,
+      "2025-12-13": 135,
       "2025-12-12": 315,
       "2025-12-11": 142,
       "2025-12-10": 220,
@@ -35,7 +35,7 @@
       "2025-11-27": 125,
       "2025-11-26": 120,
       "2025-11-25": 141,
-      "2025-11-24": 216
+      "2025-11-24": 318
     }
   },
   {
@@ -92,7 +92,7 @@
     "time": 833,
     "timeDay": 761,
     "timeWeek": 856,
-    "timeMonth": 760,
+    "timeMonth": 761,
     "timeYear": 833,
     "dailyMinutesDown": {
       "2025-12-13": 94,
@@ -132,7 +132,7 @@
     "time": 1101,
     "timeDay": 968,
     "timeWeek": 1036,
-    "timeMonth": 1055,
+    "timeMonth": 1056,
     "timeYear": 1101,
     "dailyMinutesDown": {
       "2025-12-13": 94,
@@ -172,7 +172,7 @@
     "time": 785,
     "timeDay": 831,
     "timeWeek": 779,
-    "timeMonth": 763,
+    "timeMonth": 764,
     "timeYear": 785,
     "dailyMinutesDown": {
       "2025-12-13": 93,
@@ -212,7 +212,7 @@
     "time": 948,
     "timeDay": 1910,
     "timeWeek": 1076,
-    "timeMonth": 943,
+    "timeMonth": 944,
     "timeYear": 948,
     "dailyMinutesDown": {
       "2025-12-13": 93,
@@ -252,7 +252,7 @@
     "time": 566,
     "timeDay": 537,
     "timeWeek": 565,
-    "timeMonth": 540,
+    "timeMonth": 539,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2025-12-13": 90,
