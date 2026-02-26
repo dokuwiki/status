@@ -4,18 +4,19 @@
     "url": "https://www.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.dokuwiki.org.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "93.14%",
-    "uptimeWeek": "93.71%",
-    "uptimeMonth": "91.15%",
-    "uptimeYear": "98.72%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "93.70%",
+    "uptimeMonth": "91.22%",
+    "uptimeYear": "98.73%",
     "time": 1415,
     "timeDay": 914,
     "timeWeek": 867,
     "timeMonth": 886,
     "timeYear": 1415,
     "dailyMinutesDown": {
+      "2026-02-26": 2,
       "2026-02-25": 98,
       "2026-02-24": 252,
       "2026-02-23": 154,
@@ -53,7 +54,7 @@
       "2026-01-20": 233,
       "2026-01-19": 223,
       "2026-01-18": 224,
-      "2026-01-17": 42
+      "2026-01-17": 22
     }
   },
   {
@@ -61,18 +62,19 @@
     "url": "https://forum.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/forum.dokuwiki.org.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "93.17%",
-    "uptimeWeek": "93.74%",
-    "uptimeMonth": "91.15%",
+    "uptimeDay": "93.05%",
+    "uptimeWeek": "93.72%",
+    "uptimeMonth": "91.22%",
     "uptimeYear": "98.73%",
     "time": 1181,
     "timeDay": 1062,
     "timeWeek": 1108,
-    "timeMonth": 1104,
+    "timeMonth": 1102,
     "timeYear": 1181,
     "dailyMinutesDown": {
+      "2026-02-26": 2,
       "2026-02-25": 98,
       "2026-02-24": 251,
       "2026-02-23": 152,
@@ -109,8 +111,7 @@
       "2026-01-21": 15,
       "2026-01-20": 233,
       "2026-01-19": 222,
-      "2026-01-18": 224,
-      "2026-01-17": 21
+      "2026-01-18": 224
     }
   },
   {
@@ -118,18 +119,19 @@
     "url": "https://download.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/download.dokuwiki.org.ico",
     "slug": "download",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "93.20%",
-    "uptimeWeek": "93.76%",
-    "uptimeMonth": "91.19%",
-    "uptimeYear": "98.73%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "93.09%",
+    "uptimeWeek": "93.75%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "98.74%",
     "time": 792,
     "timeDay": 776,
     "timeWeek": 683,
-    "timeMonth": 704,
+    "timeMonth": 702,
     "timeYear": 792,
     "dailyMinutesDown": {
+      "2026-02-26": 1,
       "2026-02-25": 98,
       "2026-02-24": 250,
       "2026-02-23": 151,
@@ -166,7 +168,7 @@
       "2026-01-20": 229,
       "2026-01-19": 220,
       "2026-01-18": 220,
-      "2026-01-17": 41
+      "2026-01-17": 21
     }
   },
   {
@@ -174,18 +176,19 @@
     "url": "https://translate.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.dokuwiki.org.ico",
     "slug": "translate",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "93.23%",
-    "uptimeWeek": "93.79%",
-    "uptimeMonth": "91.26%",
-    "uptimeYear": "98.73%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "93.78%",
+    "uptimeMonth": "91.32%",
+    "uptimeYear": "98.74%",
     "time": 1097,
     "timeDay": 1016,
     "timeWeek": 1027,
-    "timeMonth": 1072,
+    "timeMonth": 1073,
     "timeYear": 1097,
     "dailyMinutesDown": {
+      "2026-02-26": 1,
       "2026-02-25": 98,
       "2026-02-24": 250,
       "2026-02-23": 151,
@@ -222,7 +225,7 @@
       "2026-01-20": 228,
       "2026-01-19": 217,
       "2026-01-18": 202,
-      "2026-01-17": 101
+      "2026-01-17": 62
     }
   },
   {
@@ -230,18 +233,19 @@
     "url": "https://irc.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/irc.dokuwiki.org.ico",
     "slug": "irc-log",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "93.26%",
-    "uptimeWeek": "93.82%",
-    "uptimeMonth": "91.33%",
-    "uptimeYear": "98.69%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "93.18%",
+    "uptimeWeek": "93.80%",
+    "uptimeMonth": "91.39%",
+    "uptimeYear": "98.70%",
     "time": 789,
     "timeDay": 826,
     "timeWeek": 715,
-    "timeMonth": 827,
+    "timeMonth": 825,
     "timeYear": 789,
     "dailyMinutesDown": {
+      "2026-02-26": 1,
       "2026-02-25": 97,
       "2026-02-24": 250,
       "2026-02-23": 151,
@@ -278,7 +282,7 @@
       "2026-01-19": 201,
       "2026-01-18": 202,
       "2026-01-17": 101,
-      "2026-01-16": 64
+      "2026-01-16": 32
     }
   },
   {
@@ -286,18 +290,19 @@
     "url": "https://codesearch.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/codesearch.dokuwiki.org.ico",
     "slug": "code-search",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "93.29%",
-    "uptimeWeek": "93.84%",
-    "uptimeMonth": "91.36%",
-    "uptimeYear": "98.73%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "93.23%",
+    "uptimeWeek": "93.83%",
+    "uptimeMonth": "91.43%",
+    "uptimeYear": "98.74%",
     "time": 941,
     "timeDay": 1020,
     "timeWeek": 889,
-    "timeMonth": 898,
+    "timeMonth": 897,
     "timeYear": 941,
     "dailyMinutesDown": {
+      "2026-02-26": 1,
       "2026-02-25": 96,
       "2026-02-24": 250,
       "2026-02-23": 150,
@@ -334,7 +339,7 @@
       "2026-01-19": 200,
       "2026-01-18": 202,
       "2026-01-17": 99,
-      "2026-01-16": 63
+      "2026-01-16": 31
     }
   },
   {
@@ -342,18 +347,19 @@
     "url": "https://pluginwiz.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pluginwiz.dokuwiki.org.ico",
     "slug": "plugin-wizard",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "93.33%",
-    "uptimeWeek": "93.87%",
-    "uptimeMonth": "91.53%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "91.59%",
     "uptimeYear": "98.72%",
     "time": 559,
     "timeDay": 637,
     "timeWeek": 538,
-    "timeMonth": 530,
+    "timeMonth": 529,
     "timeYear": 559,
     "dailyMinutesDown": {
+      "2026-02-26": 1,
       "2026-02-25": 96,
       "2026-02-24": 248,
       "2026-02-23": 149,
@@ -390,7 +396,7 @@
       "2026-01-19": 199,
       "2026-01-18": 199,
       "2026-01-17": 98,
-      "2026-01-16": 86
+      "2026-01-16": 63
     }
   },
   {
