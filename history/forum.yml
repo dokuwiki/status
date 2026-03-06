@@ -1,7 +1,7 @@
 url: https://forum.dokuwiki.org
-status: up
-code: 200
-responseTime: 890
-lastUpdated: 2026-03-06T10:58:37.796Z
+status: down
+code: 500
+responseTime: 590
+lastUpdated: 2026-03-06T14:03:22.566Z
 startTime: 2025-05-29T08:02:08.985Z
 generator: Upptime <https://github.com/upptime/upptime>
