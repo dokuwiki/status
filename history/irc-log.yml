@@ -1,7 +1,7 @@
 url: https://irc.dokuwiki.org/
-status: up
-code: 200
-responseTime: 474
-lastUpdated: 2026-03-06T10:58:46.512Z
+status: down
+code: 500
+responseTime: 579
+lastUpdated: 2026-03-06T14:03:31.636Z
 startTime: 2025-06-05T12:18:17.341Z
 generator: Upptime <https://github.com/upptime/upptime>
