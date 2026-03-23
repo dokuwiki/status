@@ -124,9 +124,9 @@
     "slug": "download",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "88.17%",
-    "uptimeWeek": "90.71%",
-    "uptimeMonth": "91.16%",
+    "uptimeDay": "89.21%",
+    "uptimeWeek": "90.86%",
+    "uptimeMonth": "91.19%",
     "uptimeYear": "98.66%",
     "time": 794,
     "timeDay": 674,
@@ -134,7 +134,7 @@
     "timeMonth": 795,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2026-03-22": 170,
+      "2026-03-22": 155,
       "2026-03-21": 48,
       "2026-03-20": 122,
       "2026-03-19": 201,
@@ -173,7 +173,7 @@
       "2026-02-12": 75,
       "2026-02-11": 271,
       "2026-02-10": 189,
-      "2026-02-09": 82
+      "2026-02-09": 125
     }
   },
   {
@@ -182,18 +182,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.dokuwiki.org.ico",
     "slug": "translate",
     "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "88.26%",
-    "uptimeWeek": "90.75%",
-    "uptimeMonth": "91.19%",
-    "uptimeYear": "98.67%",
+    "uptime": "98.66%",
+    "uptimeDay": "89.28%",
+    "uptimeWeek": "90.90%",
+    "uptimeMonth": "91.23%",
+    "uptimeYear": "98.66%",
     "time": 1090,
     "timeDay": 1010,
     "timeWeek": 1030,
     "timeMonth": 1021,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2026-03-22": 170,
+      "2026-03-22": 155,
       "2026-03-21": 47,
       "2026-03-20": 122,
       "2026-03-19": 201,
@@ -232,7 +232,7 @@
       "2026-02-12": 74,
       "2026-02-11": 269,
       "2026-02-10": 188,
-      "2026-02-09": 82
+      "2026-02-09": 125
     }
   },
   {
@@ -241,18 +241,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/irc.dokuwiki.org.ico",
     "slug": "irc-log",
     "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "88.34%",
-    "uptimeWeek": "90.79%",
-    "uptimeMonth": "91.35%",
-    "uptimeYear": "98.64%",
+    "uptime": "98.57%",
+    "uptimeDay": "89.34%",
+    "uptimeWeek": "90.94%",
+    "uptimeMonth": "91.39%",
+    "uptimeYear": "98.57%",
     "time": 780,
     "timeDay": 552,
     "timeWeek": 678,
     "timeMonth": 704,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2026-03-22": 168,
+      "2026-03-22": 154,
       "2026-03-21": 47,
       "2026-03-20": 122,
       "2026-03-19": 198,
@@ -291,7 +291,7 @@
       "2026-02-12": 74,
       "2026-02-11": 269,
       "2026-02-10": 188,
-      "2026-02-09": 124
+      "2026-02-09": 435
     }
   },
   {
@@ -300,18 +300,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/codesearch.dokuwiki.org.ico",
     "slug": "code-search",
     "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "88.42%",
-    "uptimeWeek": "90.83%",
-    "uptimeMonth": "91.39%",
-    "uptimeYear": "98.68%",
+    "uptime": "98.61%",
+    "uptimeDay": "89.41%",
+    "uptimeWeek": "90.98%",
+    "uptimeMonth": "91.42%",
+    "uptimeYear": "98.61%",
     "time": 938,
     "timeDay": 935,
     "timeWeek": 911,
     "timeMonth": 901,
     "timeYear": 938,
     "dailyMinutesDown": {
-      "2026-03-22": 166,
+      "2026-03-22": 152,
       "2026-03-21": 46,
       "2026-03-20": 120,
       "2026-03-19": 198,
@@ -350,7 +350,7 @@
       "2026-02-12": 74,
       "2026-02-11": 268,
       "2026-02-10": 187,
-      "2026-02-09": 124
+      "2026-02-09": 435
     }
   },
   {
@@ -359,18 +359,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pluginwiz.dokuwiki.org.ico",
     "slug": "plugin-wizard",
     "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "88.51%",
-    "uptimeWeek": "90.88%",
-    "uptimeMonth": "91.31%",
-    "uptimeYear": "98.66%",
+    "uptime": "98.59%",
+    "uptimeDay": "89.47%",
+    "uptimeWeek": "91.01%",
+    "uptimeMonth": "91.34%",
+    "uptimeYear": "98.59%",
     "time": 560,
     "timeDay": 461,
     "timeWeek": 525,
     "timeMonth": 571,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2026-03-22": 165,
+      "2026-03-22": 151,
       "2026-03-21": 46,
       "2026-03-20": 120,
       "2026-03-19": 197,
@@ -409,7 +409,7 @@
       "2026-02-12": 74,
       "2026-02-11": 268,
       "2026-02-10": 129,
-      "2026-02-09": 122
+      "2026-02-09": 433
     }
   },
   {
