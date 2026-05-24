@@ -4,17 +4,17 @@
     "url": "https://www.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.dokuwiki.org.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "98.46%",
-    "uptimeDay": "89.76%",
-    "uptimeWeek": "93.64%",
-    "uptimeMonth": "91.04%",
-    "uptimeYear": "98.46%",
-    "time": 1315,
-    "timeDay": 1152,
-    "timeWeek": 1132,
-    "timeMonth": 1120,
-    "timeYear": 1315,
+    "status": "up",
+    "uptime": "98.45%",
+    "uptimeDay": "89.78%",
+    "uptimeWeek": "93.38%",
+    "uptimeMonth": "90.98%",
+    "uptimeYear": "98.45%",
+    "time": 1314,
+    "timeDay": 1068,
+    "timeWeek": 1109,
+    "timeMonth": 1115,
+    "timeYear": 1314,
     "dailyMinutesDown": {
       "2026-03-18": 44,
       "2026-03-19": 202,
@@ -69,7 +69,7 @@
       "2026-05-21": 69,
       "2026-05-22": 58,
       "2026-05-23": 200,
-      "2026-05-24": 111
+      "2026-05-24": 137
     }
   },
   {
@@ -77,15 +77,15 @@
     "url": "https://forum.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/forum.dokuwiki.org.ico",
     "slug": "forum",
-    "status": "down",
-    "uptime": "98.49%",
-    "uptimeDay": "90.43%",
-    "uptimeWeek": "94.02%",
-    "uptimeMonth": "91.76%",
-    "uptimeYear": "98.49%",
+    "status": "up",
+    "uptime": "98.48%",
+    "uptimeDay": "90.46%",
+    "uptimeWeek": "93.76%",
+    "uptimeMonth": "91.70%",
+    "uptimeYear": "98.48%",
     "time": 1144,
-    "timeDay": 944,
-    "timeWeek": 960,
+    "timeDay": 940,
+    "timeWeek": 958,
     "timeMonth": 968,
     "timeYear": 1144,
     "dailyMinutesDown": {
@@ -140,7 +140,7 @@
       "2026-05-21": 64,
       "2026-05-22": 53,
       "2026-05-23": 187,
-      "2026-05-24": 102
+      "2026-05-24": 127
     }
   },
   {
@@ -148,16 +148,16 @@
     "url": "https://download.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/download.dokuwiki.org.ico",
     "slug": "download",
-    "status": "down",
+    "status": "up",
     "uptime": "98.50%",
-    "uptimeDay": "91.10%",
-    "uptimeWeek": "94.40%",
-    "uptimeMonth": "92.01%",
+    "uptimeDay": "91.13%",
+    "uptimeWeek": "94.15%",
+    "uptimeMonth": "91.95%",
     "uptimeYear": "98.50%",
     "time": 784,
-    "timeDay": 605,
-    "timeWeek": 659,
-    "timeMonth": 691,
+    "timeDay": 633,
+    "timeWeek": 663,
+    "timeMonth": 692,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2026-03-17": 61,
@@ -212,7 +212,7 @@
       "2026-05-21": 59,
       "2026-05-22": 48,
       "2026-05-23": 172,
-      "2026-05-24": 92
+      "2026-05-24": 117
     }
   },
   {
@@ -220,16 +220,16 @@
     "url": "https://translate.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.dokuwiki.org.ico",
     "slug": "translate",
-    "status": "down",
-    "uptime": "98.53%",
-    "uptimeDay": "91.77%",
-    "uptimeWeek": "94.78%",
-    "uptimeMonth": "92.26%",
-    "uptimeYear": "98.53%",
+    "status": "up",
+    "uptime": "98.52%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "94.53%",
+    "uptimeMonth": "92.20%",
+    "uptimeYear": "98.52%",
     "time": 1087,
-    "timeDay": 1068,
-    "timeWeek": 1077,
-    "timeMonth": 1045,
+    "timeDay": 1001,
+    "timeWeek": 1057,
+    "timeMonth": 1041,
     "timeYear": 1087,
     "dailyMinutesDown": {
       "2026-03-17": 61,
@@ -284,7 +284,7 @@
       "2026-05-21": 54,
       "2026-05-22": 43,
       "2026-05-23": 158,
-      "2026-05-24": 82
+      "2026-05-24": 108
     }
   },
   {
@@ -292,16 +292,16 @@
     "url": "https://irc.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/irc.dokuwiki.org.ico",
     "slug": "irc-log",
-    "status": "down",
+    "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "92.44%",
-    "uptimeWeek": "95.17%",
-    "uptimeMonth": "92.51%",
+    "uptimeDay": "92.48%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "92.45%",
     "uptimeYear": "98.52%",
     "time": 779,
-    "timeDay": 756,
-    "timeWeek": 817,
-    "timeMonth": 784,
+    "timeDay": 725,
+    "timeWeek": 804,
+    "timeMonth": 781,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2026-03-17": 61,
@@ -356,7 +356,7 @@
       "2026-05-21": 49,
       "2026-05-22": 38,
       "2026-05-23": 143,
-      "2026-05-24": 72
+      "2026-05-24": 98
     }
   },
   {
@@ -364,16 +364,16 @@
     "url": "https://codesearch.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/codesearch.dokuwiki.org.ico",
     "slug": "code-search",
-    "status": "down",
-    "uptime": "98.58%",
-    "uptimeDay": "93.31%",
-    "uptimeWeek": "95.55%",
-    "uptimeMonth": "92.76%",
-    "uptimeYear": "98.58%",
+    "status": "up",
+    "uptime": "98.57%",
+    "uptimeDay": "93.15%",
+    "uptimeWeek": "95.30%",
+    "uptimeMonth": "92.70%",
+    "uptimeYear": "98.57%",
     "time": 935,
-    "timeDay": 875,
-    "timeWeek": 887,
-    "timeMonth": 913,
+    "timeDay": 814,
+    "timeWeek": 868,
+    "timeMonth": 909,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2026-03-17": 61,
@@ -427,7 +427,7 @@
       "2026-05-21": 45,
       "2026-05-22": 34,
       "2026-05-23": 128,
-      "2026-05-24": 63
+      "2026-05-24": 88
     }
   },
   {
@@ -435,16 +435,16 @@
     "url": "https://pluginwiz.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pluginwiz.dokuwiki.org.ico",
     "slug": "plugin-wizard",
-    "status": "down",
+    "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "94.32%",
-    "uptimeWeek": "95.93%",
-    "uptimeMonth": "93.01%",
+    "uptimeDay": "93.83%",
+    "uptimeWeek": "95.68%",
+    "uptimeMonth": "92.95%",
     "uptimeYear": "98.57%",
     "time": 563,
-    "timeDay": 528,
-    "timeWeek": 564,
-    "timeMonth": 523,
+    "timeDay": 496,
+    "timeWeek": 553,
+    "timeMonth": 521,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2026-03-17": 60,
@@ -498,7 +498,7 @@
       "2026-05-21": 40,
       "2026-05-22": 29,
       "2026-05-23": 115,
-      "2026-05-24": 54
+      "2026-05-24": 79
     }
   },
   {
