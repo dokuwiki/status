@@ -180,16 +180,16 @@
     "url": "https://download.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/download.dokuwiki.org.ico",
     "slug": "download",
-    "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "79.09%",
-    "uptimeWeek": "86.21%",
-    "uptimeMonth": "89.09%",
-    "uptimeYear": "97.87%",
+    "status": "up",
+    "uptime": "98.14%",
+    "uptimeDay": "74.58%",
+    "uptimeWeek": "85.56%",
+    "uptimeMonth": "88.94%",
+    "uptimeYear": "97.85%",
     "time": 780,
-    "timeDay": 2543,
-    "timeWeek": 1144,
-    "timeMonth": 804,
+    "timeDay": 2186,
+    "timeWeek": 1123,
+    "timeMonth": 803,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2026-04-25": 61,
@@ -259,7 +259,7 @@
       "2026-07-21": 168,
       "2026-07-22": 321,
       "2026-07-24": 74,
-      "2026-07-25": 227
+      "2026-07-25": 292
     }
   },
   {
@@ -354,16 +354,16 @@
     "url": "https://irc.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/irc.dokuwiki.org.ico",
     "slug": "irc-log",
-    "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "75.72%",
-    "uptimeWeek": "86.49%",
-    "uptimeMonth": "89.84%",
-    "uptimeYear": "97.98%",
+    "status": "up",
+    "uptime": "98.22%",
+    "uptimeDay": "71.21%",
+    "uptimeWeek": "85.85%",
+    "uptimeMonth": "89.69%",
+    "uptimeYear": "97.97%",
     "time": 776,
-    "timeDay": 705,
-    "timeWeek": 804,
-    "timeMonth": 748,
+    "timeDay": 691,
+    "timeWeek": 795,
+    "timeMonth": 746,
     "timeYear": 776,
     "dailyMinutesDown": {
       "2026-04-25": 254,
@@ -433,7 +433,7 @@
       "2026-07-21": 148,
       "2026-07-22": 301,
       "2026-07-24": 64,
-      "2026-07-25": 285
+      "2026-07-25": 350
     }
   },
   {
@@ -528,16 +528,16 @@
     "url": "https://pluginwiz.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pluginwiz.dokuwiki.org.ico",
     "slug": "plugin-wizard",
-    "status": "down",
-    "uptime": "98.37%",
-    "uptimeDay": "77.21%",
-    "uptimeWeek": "86.33%",
-    "uptimeMonth": "90.44%",
-    "uptimeYear": "98.14%",
+    "status": "up",
+    "uptime": "98.35%",
+    "uptimeDay": "72.71%",
+    "uptimeWeek": "85.69%",
+    "uptimeMonth": "90.29%",
+    "uptimeYear": "98.13%",
     "time": 566,
-    "timeDay": 470,
-    "timeWeek": 460,
-    "timeMonth": 671,
+    "timeDay": 478,
+    "timeWeek": 463,
+    "timeMonth": 668,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2026-04-25": 155,
@@ -607,7 +607,7 @@
       "2026-07-21": 129,
       "2026-07-22": 282,
       "2026-07-24": 171,
-      "2026-07-25": 274
+      "2026-07-25": 338
     }
   },
   {
