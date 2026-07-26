@@ -4,16 +4,16 @@
     "url": "https://www.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.dokuwiki.org.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "98.03%",
-    "uptimeDay": "73.40%",
-    "uptimeWeek": "87.11%",
-    "uptimeMonth": "88.63%",
-    "uptimeYear": "97.71%",
+    "status": "up",
+    "uptime": "98.02%",
+    "uptimeDay": "69.44%",
+    "uptimeWeek": "86.54%",
+    "uptimeMonth": "88.50%",
+    "uptimeYear": "97.70%",
     "time": 1318,
-    "timeDay": 4977,
-    "timeWeek": 2904,
-    "timeMonth": 1576,
+    "timeDay": 4259,
+    "timeWeek": 2825,
+    "timeMonth": 1573,
     "timeYear": 1307,
     "dailyMinutesDown": {
       "2026-05-01": 150,
@@ -82,7 +82,7 @@
       "2026-07-22": 340,
       "2026-07-24": 84,
       "2026-07-25": 460,
-      "2026-07-26": 229
+      "2026-07-26": 286
     }
   },
   {
@@ -90,16 +90,16 @@
     "url": "https://forum.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/forum.dokuwiki.org.ico",
     "slug": "forum",
-    "status": "down",
-    "uptime": "98.10%",
-    "uptimeDay": "74.52%",
-    "uptimeWeek": "86.12%",
-    "uptimeMonth": "88.75%",
-    "uptimeYear": "97.80%",
+    "status": "up",
+    "uptime": "98.09%",
+    "uptimeDay": "70.57%",
+    "uptimeWeek": "85.56%",
+    "uptimeMonth": "88.62%",
+    "uptimeYear": "97.79%",
     "time": 1154,
-    "timeDay": 3378,
-    "timeWeek": 2396,
-    "timeMonth": 1424,
+    "timeDay": 2945,
+    "timeWeek": 2334,
+    "timeMonth": 1421,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2026-05-02": 454,
@@ -166,7 +166,7 @@
       "2026-07-22": 330,
       "2026-07-24": 79,
       "2026-07-25": 371,
-      "2026-07-26": 227
+      "2026-07-26": 284
     }
   },
   {
@@ -174,15 +174,15 @@
     "url": "https://download.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/download.dokuwiki.org.ico",
     "slug": "download",
-    "status": "down",
-    "uptime": "98.20%",
-    "uptimeDay": "91.09%",
-    "uptimeWeek": "88.19%",
-    "uptimeMonth": "89.56%",
-    "uptimeYear": "97.91%",
+    "status": "up",
+    "uptime": "98.19%",
+    "uptimeDay": "87.15%",
+    "uptimeWeek": "87.62%",
+    "uptimeMonth": "89.43%",
+    "uptimeYear": "97.90%",
     "time": 785,
-    "timeDay": 2949,
-    "timeWeek": 1487,
+    "timeDay": 2431,
+    "timeWeek": 1455,
     "timeMonth": 886,
     "timeYear": 767,
     "dailyMinutesDown": {
@@ -250,7 +250,7 @@
       "2026-07-22": 321,
       "2026-07-24": 74,
       "2026-07-25": 417,
-      "2026-07-26": 3
+      "2026-07-26": 60
     }
   },
   {
@@ -344,16 +344,16 @@
     "url": "https://irc.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/irc.dokuwiki.org.ico",
     "slug": "irc-log",
-    "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "93.16%",
-    "uptimeWeek": "88.48%",
-    "uptimeMonth": "90.34%",
-    "uptimeYear": "98.00%",
+    "status": "up",
+    "uptime": "98.24%",
+    "uptimeDay": "89.23%",
+    "uptimeWeek": "87.92%",
+    "uptimeMonth": "90.21%",
+    "uptimeYear": "97.99%",
     "time": 779,
-    "timeDay": 2024,
-    "timeWeek": 1014,
-    "timeMonth": 784,
+    "timeDay": 1671,
+    "timeWeek": 992,
+    "timeMonth": 782,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2026-04-26": 86,
@@ -423,7 +423,7 @@
       "2026-07-22": 301,
       "2026-07-24": 64,
       "2026-07-25": 447,
-      "2026-07-26": 1
+      "2026-07-26": 58
     }
   },
   {
@@ -517,17 +517,17 @@
     "url": "https://pluginwiz.dokuwiki.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pluginwiz.dokuwiki.org.ico",
     "slug": "plugin-wizard",
-    "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "88.45%",
-    "uptimeMonth": "90.99%",
-    "uptimeYear": "98.15%",
+    "status": "up",
+    "uptime": "98.37%",
+    "uptimeDay": "92.13%",
+    "uptimeWeek": "87.89%",
+    "uptimeMonth": "90.86%",
+    "uptimeYear": "98.14%",
     "time": 580,
-    "timeDay": 5746,
-    "timeWeek": 1345,
-    "timeMonth": 744,
-    "timeYear": 581,
+    "timeDay": 4434,
+    "timeWeek": 1300,
+    "timeMonth": 741,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2026-04-26": 86,
       "2026-04-28": 155,
@@ -596,7 +596,7 @@
       "2026-07-22": 282,
       "2026-07-24": 171,
       "2026-07-25": 394,
-      "2026-07-26": 1
+      "2026-07-26": 57
     }
   },
   {
