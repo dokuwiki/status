@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.45%",
+    "uptimeWeek": "91.52%",
     "uptimeMonth": "87.92%",
     "uptimeYear": "97.71%",
     "time": 1319,
@@ -93,19 +93,18 @@
     "url": "https://forum.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/forum.dokuwiki.org.ico",
     "slug": "forum",
-    "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.83%",
-    "uptimeMonth": "88.32%",
-    "uptimeYear": "97.81%",
+    "status": "down",
+    "uptime": "98.17%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "91.80%",
+    "uptimeMonth": "88.31%",
+    "uptimeYear": "97.82%",
     "time": 1153,
     "timeDay": 974,
     "timeWeek": 1029,
     "timeMonth": 1421,
     "timeYear": 1134,
     "dailyMinutesDown": {
-      "2026-05-09": 50,
       "2026-05-10": 48,
       "2026-05-11": 169,
       "2026-05-13": 89,
@@ -173,7 +172,8 @@
       "2026-08-02": 182,
       "2026-08-03": 66,
       "2026-08-04": 193,
-      "2026-08-05": 58
+      "2026-08-05": 58,
+      "2026-08-06": 6
     }
   },
   {
@@ -181,11 +181,11 @@
     "url": "https://download.dokuwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/download.dokuwiki.org.ico",
     "slug": "download",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.21%",
-    "uptimeMonth": "88.95%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "92.17%",
+    "uptimeMonth": "88.94%",
     "uptimeYear": "97.92%",
     "time": 784,
     "timeDay": 625,
@@ -193,7 +193,6 @@
     "timeMonth": 900,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2026-05-09": 45,
       "2026-05-10": 43,
       "2026-05-11": 164,
       "2026-05-13": 84,
@@ -261,7 +260,8 @@
       "2026-08-02": 172,
       "2026-08-03": 61,
       "2026-08-04": 188,
-      "2026-08-05": 54
+      "2026-08-05": 54,
+      "2026-08-06": 4
     }
   },
   {
@@ -358,7 +358,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/irc.dokuwiki.org.ico",
     "slug": "irc-log",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.98%",
     "uptimeMonth": "89.66%",
