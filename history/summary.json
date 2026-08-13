@@ -8,7 +8,7 @@
     "uptime": "98.22%",
     "uptimeDay": "85.41%",
     "uptimeWeek": "89.10%",
-    "uptimeMonth": "87.66%",
+    "uptimeMonth": "87.83%",
     "uptimeYear": "97.85%",
     "time": 1319,
     "timeDay": 976,
@@ -90,7 +90,7 @@
     "uptime": "98.29%",
     "uptimeDay": "86.75%",
     "uptimeWeek": "88.30%",
-    "uptimeMonth": "87.79%",
+    "uptimeMonth": "87.96%",
     "uptimeYear": "97.93%",
     "time": 1151,
     "timeDay": 949,
@@ -171,7 +171,7 @@
     "uptime": "98.37%",
     "uptimeDay": "88.09%",
     "uptimeWeek": "89.28%",
-    "uptimeMonth": "88.56%",
+    "uptimeMonth": "88.71%",
     "uptimeYear": "98.04%",
     "time": 783,
     "timeDay": 644,
@@ -252,7 +252,7 @@
     "uptime": "98.45%",
     "uptimeDay": "89.44%",
     "uptimeWeek": "91.97%",
-    "uptimeMonth": "89.79%",
+    "uptimeMonth": "89.93%",
     "uptimeYear": "98.12%",
     "time": 1103,
     "timeDay": 893,
@@ -332,10 +332,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/irc.dokuwiki.org.ico",
     "slug": "irc-log",
     "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "90.78%",
-    "uptimeWeek": "93.52%",
-    "uptimeMonth": "90.07%",
+    "uptime": "98.42%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "93.63%",
+    "uptimeMonth": "90.23%",
     "uptimeYear": "98.13%",
     "time": 777,
     "timeDay": 674,
@@ -343,7 +343,7 @@
     "timeMonth": 793,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2026-05-23": 38,
+      "2026-05-23": 91,
       "2026-05-24": 98,
       "2026-05-25": 109,
       "2026-05-27": 68,
@@ -408,8 +408,7 @@
       "2026-08-09": 66,
       "2026-08-10": 90,
       "2026-08-11": 165,
-      "2026-08-12": 128,
-      "2026-08-13": 4
+      "2026-08-12": 121
     }
   },
   {
@@ -419,17 +418,17 @@
     "slug": "code-search",
     "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "92.12%",
-    "uptimeWeek": "94.24%",
-    "uptimeMonth": "90.80%",
-    "uptimeYear": "98.24%",
+    "uptimeDay": "92.58%",
+    "uptimeWeek": "94.30%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "98.23%",
     "time": 963,
     "timeDay": 895,
     "timeWeek": 1055,
     "timeMonth": 1195,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2026-05-23": 33,
+      "2026-05-23": 81,
       "2026-05-24": 88,
       "2026-05-25": 100,
       "2026-05-27": 64,
@@ -494,8 +493,7 @@
       "2026-08-09": 57,
       "2026-08-10": 81,
       "2026-08-11": 145,
-      "2026-08-12": 108,
-      "2026-08-13": 4
+      "2026-08-12": 106
     }
   },
   {
@@ -505,9 +503,9 @@
     "slug": "plugin-wizard",
     "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "93.46%",
-    "uptimeWeek": "95.20%",
-    "uptimeMonth": "91.13%",
+    "uptimeDay": "93.59%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "91.24%",
     "uptimeYear": "98.30%",
     "time": 577,
     "timeDay": 470,
@@ -515,6 +513,7 @@
     "timeMonth": 701,
     "timeYear": 578,
     "dailyMinutesDown": {
+      "2026-05-22": 29,
       "2026-05-23": 115,
       "2026-05-24": 79,
       "2026-05-25": 90,
@@ -580,8 +579,7 @@
       "2026-08-09": 34,
       "2026-08-10": 60,
       "2026-08-11": 125,
-      "2026-08-12": 91,
-      "2026-08-13": 2
+      "2026-08-12": 91
     }
   },
   {
