@@ -249,16 +249,17 @@
     "slug": "irc-log",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "95.22%",
-    "uptimeMonth": "93.94%",
-    "uptimeYear": "98.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "93.97%",
+    "uptimeYear": "98.32%",
     "time": 779,
     "timeDay": 461,
     "timeWeek": 686,
     "timeMonth": 806,
     "timeYear": 772,
     "dailyMinutesDown": {
+      "2026-06-28": 53,
       "2026-06-29": 65,
       "2026-07-01": 73,
       "2026-07-02": 184,
@@ -318,8 +319,7 @@
       "2026-09-06": 67,
       "2026-09-10": 199,
       "2026-09-12": 244,
-      "2026-09-13": 27,
-      "2026-09-15": 12
+      "2026-09-13": 27
     }
   },
   {
@@ -328,17 +328,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/codesearch.dokuwiki.org.ico",
     "slug": "code-search",
     "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "94.40%",
-    "uptimeYear": "98.40%",
+    "uptime": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.48%",
+    "uptimeMonth": "94.42%",
+    "uptimeYear": "98.37%",
     "time": 956,
     "timeDay": 962,
     "timeWeek": 1060,
     "timeMonth": 1052,
     "timeYear": 965,
     "dailyMinutesDown": {
+      "2026-06-26": 141,
       "2026-06-27": 129,
       "2026-06-28": 134,
       "2026-06-29": 60,
@@ -400,8 +401,7 @@
       "2026-09-06": 63,
       "2026-09-10": 194,
       "2026-09-12": 235,
-      "2026-09-13": 27,
-      "2026-09-15": 7
+      "2026-09-13": 27
     }
   },
   {
@@ -410,17 +410,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pluginwiz.dokuwiki.org.ico",
     "slug": "plugin-wizard",
     "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "95.61%",
+    "uptime": "98.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.63%",
     "uptimeMonth": "94.85%",
-    "uptimeYear": "98.28%",
+    "uptimeYear": "98.24%",
     "time": 574,
     "timeDay": 575,
     "timeWeek": 506,
     "timeMonth": 543,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2026-06-18": 253,
       "2026-06-21": 183,
       "2026-06-23": 205,
       "2026-06-24": 155,
@@ -487,8 +488,7 @@
       "2026-09-06": 58,
       "2026-09-10": 189,
       "2026-09-12": 225,
-      "2026-09-13": 27,
-      "2026-09-15": 2
+      "2026-09-13": 27
     }
   },
   {
